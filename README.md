@@ -1,3 +1,3 @@
 # first_demo
-This is my first repository
-Author- Rashmi ranjan jena
+This is my first repository .
+Author- Rashmi ranjan jena .
